@@ -37,9 +37,9 @@
 ---
 
 ### 🔹 Fun Fact
-> 💻 “Coding is my art, coffee is my fuel, and creativity is my superpower.”
-> 🎮 “Gaming sharpens my reflexes… coding sharpens my mind.”
-> 🌸 “I turn coffee ☕ into code 💻, ideas 🌟 into projects, and teams into winners. A natural leader who loves bringing out the best in everyone!”
-> 🌸 Let's build something amazing together!!!
+- 💻 “Coding is my art, coffee is my fuel, and creativity is my superpower.”
+-🎮 “Gaming sharpens my reflexes… coding sharpens my mind.”
+-🌸 “I turn coffee ☕ into code 💻, ideas 🌟 into projects, and teams into winners. A natural leader who loves bringing out the best in everyone!”
+-🌸 Let's build something amazing together!!!
 
 
