@@ -7,10 +7,10 @@
 ---
 
 ### 🔹 About Me
-- Fourth-year student at **Hashemite University**  
+- Fourth-year student 🎓
 - Passionate about **software development, web projects, and cloud computing**  
 - Always exploring **new tech**, **improving problem-solving skills**, and **helping others**  
-- Member of **GDG HU**  
+- Member of **GDG**  
 - Hobbies: **tennis**, **coding side projects**, **gaming**, and **anime vibes**  
 
 ---
@@ -24,10 +24,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 
-#### Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
-
 ---
 
 
@@ -37,9 +33,13 @@
 ---
 
 ### 🔹 Fun Fact
-- 💻 “Coding is my art, coffee is my fuel, and creativity is my superpower.”
--🎮 “Gaming sharpens my reflexes… coding sharpens my mind.”
--🌸 “I turn coffee ☕ into code 💻, ideas 🌟 into projects, and teams into winners. A natural leader who loves bringing out the best in everyone!”
--🌸 Let's build something amazing together!!!
+
+- 💻 **Coding is my art, coffee is my fuel, and creativity is my superpower.**  
+
+- 🎮 **Gaming sharpens my reflexes… coding sharpens my mind.**  
+
+- 🌸 **I turn coffee ☕ into code 💻, ideas 🌟 into projects, and teams into winners. A natural leader who loves bringing out the best in everyone!**  
+
+- 🌸 **Let's build something amazing together!!!**
 
 
