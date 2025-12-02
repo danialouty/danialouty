@@ -44,10 +44,10 @@
 <div align="center">
 
 <!-- Main Stats Card -->
-<img 
+<!-- <img 
      src="https://github-readme-stats.vercel.app/api?username=danialouty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=ff79c6&title_color=c77dff&text_color=ffffff" 
      height="165"
-/>
+/> -->
 
 <br/>
 
