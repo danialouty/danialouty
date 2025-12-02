@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://media.giphy.com/media/Q5N5ZCWAHohY0/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" />
 
   <h1 style="color:#c77dff;">🌌 Hey there! I'm Dania 👋</h1>
 
@@ -59,8 +59,6 @@
 
 <br/>
 
-<!-- Galaxy GIF -->
-<img src="https://media.giphy.com/media/l0HUqsz2jdQYElRm0/giphy.gif" width="260" />
 
 </div>
 
