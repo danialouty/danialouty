@@ -1,78 +1,87 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" />
-  
-  <h1 style="color:#b388ff;">✨ Hey there! I'm Dania 👋</h1>
-  
-  <p style="font-size:18px; color:#c8b6ff;">
-    💻 <b>Computer Information Systems Student | Problem-Solver | Lifelong Learner</b><br>
-    🌸 Lover of creativity, tech, cats, and cute things<br>
-    ☕ Fueled by coffee & curiosity
+  <img src="https://media.giphy.com/media/Q5N5ZCWAHohY0/giphy.gif" width="150" />
+
+  <h1 style="color:#c77dff;">🌌 Hey there! I'm Dania 👋</h1>
+
+  <p style="font-size:18px; color:#e0b3ff;">
+    💻 <b>CIS Student | Problem-Solver | Future Cloud Engineer</b><br>
+    🌸 Lover of creativity, tech, stars, and cosmic vibes<br>
+    ☕ Fueled by curiosity & coffee
   </p>
 </div>
 
 ---
 
-<!-- About Me -->
-<h2 style="color:#a06cff;">🔹 About Me</h2>
+## 🔹 <span style="color:#a06cff;">About Me</span>
 
-<div style="color:#e5d9ff;">
+<div style="color:#f3d9ff;">
 • Fourth-year student 🎓  
-• Passionate about <b>software development, web projects, and cloud computing</b>  
-• Always exploring <b>new tech</b>, improving <b>problem-solving skills</b>, and helping others  
+• Passionate about <b>software development, cloud computing, and UI/UX</b>  
+• Enjoy improving <b>problem-solving</b> and helping other students  
 • Member of <b>GDG</b>  
-• Hobbies: <b>tennis</b>, coding side projects, gaming, and anime vibes 🌸  
+• Interests: tennis 🎾, gaming 🎮, side projects 💻, and anime 🌸  
 </div>
 
 ---
 
-<!-- Skills Section -->
-<h2 style="color:#a06cff;">🔹 Skills</h2>
+## 🔹 <span style="color:#a06cff;">Skills</span>
 
-<h3 style="color:#c49bff;">Languages & Frameworks</h3>
+### <span style="color:#c49bff;">Languages & Frameworks</span>
 
 <p>
 <img src="https://img.shields.io/badge/C%23-8E44AD?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/ASP.NET-9b59b6?style=for-the-badge&logo=dot-net&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-d63384?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-e64980?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-7b2cbf?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
 
-<!-- GitHub Stats -->
-<h2 style="color:#a06cff;">🔹 GitHub Stats</h2>
+## 🔹 <span style="color:#a06cff;">GitHub Stats (Space Theme)</span>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danialouty&show_icons=true&theme=tokyonight&bg_color=00000000" height="160" />
-  
-  <br/>
 
-  <img src="https://media.giphy.com/media/l0HUqsz2jdQYElRm0/giphy.gif" width="250" />
+<!-- Main Stats Card -->
+<img 
+     src="https://github-readme-stats.vercel.app/api?username=danialouty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=ff79c6&title_color=c77dff&text_color=ffffff" 
+     height="165"
+/>
+
+<br/>
+
+<!-- Streak Stats -->
+<img 
+     src="https://streak-stats.demolab.com?user=danialouty&theme=tokyonight&hide_border=true&background=00000000&dates=ffffff&ring=c77dff&fire=ff79c6&currStreakLabel=c77dff" 
+     height="165"
+/>
+
+<br/>
+
+<!-- Galaxy GIF -->
+<img src="https://media.giphy.com/media/l0HUqsz2jdQYElRm0/giphy.gif" width="260" />
+
 </div>
 
 ---
 
-<!-- Fun Section -->
-<h2 style="color:#a06cff;">🔹 Fun Fact</h2>
+## 🔹 <span style="color:#a06cff;">Fun Fact</span>
 
-<div style="color:#e5d9ff; font-size:16px;">
+<div style="color:#f3d9ff; font-size:16px;">
 
-• 💻 <b>Coding is my art, coffee is my fuel, and creativity is my superpower.</b>  
+• 💻 <b>Coding is my art, coffee is my fuel, and the universe is my inspiration.</b>  
 
 • 🎮 Gaming sharpens my reflexes… coding sharpens my mind.  
 
-• 🌸 I turn coffee ☕ into code 💻, ideas 🌟 into projects, and teams into winners.  
-  A natural leader who loves bringing out the best in everyone!  
+• 🌸 I turn ideas into projects, teams into winners, and challenges into opportunities.  
 
-• ✨ <span style="color:#c8b6ff;"><b>Let's build something amazing together!!!</b></span>
+• 🌌 <span style="color:#c8b6ff;"><b>Let’s build something amazing across the galaxy!</b></span>
 </div>
 
 ---
 
-<!-- Footer Space Vibes -->
 <div align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" />
-  <p style="color:#c8b6ff;">Made with 🌙 stardust & purple energy</p>
+  <p style="color:#d8b4ff;">Made with stardust ✨ & purple cosmic energy</p>
 </div>
