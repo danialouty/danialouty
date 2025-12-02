@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://i.imgur.com/7w4LZQG.gif" width="150" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" />
   
   <h1 style="color:#b388ff;">✨ Hey there! I'm Dania 👋</h1>
   
@@ -46,8 +46,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danialouty&show_icons=true&theme=tokyonight&bg_color=00000000" height="160" />
+  
   <br/>
-  <img src="https://i.imgur.com/PbZ5eBC.gif" width="250" />
+
+  <img src="https://media.giphy.com/media/l0HUqsz2jdQYElRm0/giphy.gif" width="250" />
 </div>
 
 ---
@@ -71,6 +73,6 @@
 
 <!-- Footer Space Vibes -->
 <div align="center">
-  <img src="https://i.imgur.com/9C3vYVT.gif" width="200" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" />
   <p style="color:#c8b6ff;">Made with 🌙 stardust & purple energy</p>
 </div>
