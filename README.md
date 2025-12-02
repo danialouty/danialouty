@@ -75,6 +75,5 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="200" />
   <p style="color:#d8b4ff;">Made with stardust ✨ & purple cosmic energy</p>
 </div>
