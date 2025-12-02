@@ -43,11 +43,6 @@
 
 <div align="center">
 
-<!-- Main Stats Card -->
-<!-- <img 
-     src="https://github-readme-stats.vercel.app/api?username=danialouty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=ff79c6&title_color=c77dff&text_color=ffffff" 
-     height="165"
-/> -->
 
 <br/>
 
@@ -80,6 +75,6 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="200" />
   <p style="color:#d8b4ff;">Made with stardust ✨ & purple cosmic energy</p>
 </div>
