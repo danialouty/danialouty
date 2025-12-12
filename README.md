@@ -16,10 +16,10 @@
 ## 🔹 <span style="color:#a06cff;">About Me</span>
 
 <div style="color:#f3d9ff;">
-• Fourth-year student 🎓  
-• Passionate about <b>software development, cloud computing, and UI/UX</b>  
-• Enjoy improving <b>problem-solving</b> and helping other students  
-• Member of <b>GDG</b>  
+• Fourth-year student 🎓  <br>
+• Passionate about <b>software development, cloud computing, and UI/UX</b>  <br>
+• Enjoy improving <b>problem-solving</b> and helping other students  <br>
+• Member of <b>GDG</b>  <br>
 • Interests: tennis 🎾, gaming 🎮, side projects 💻, and anime 🌸  
 </div>
 
@@ -42,19 +42,8 @@
 ## 🔹 <span style="color:#a06cff;">GitHub Stats (Space Theme)</span>
 
 <div align="center">
-
-
-<br/>
-
-<!-- Streak Stats -->
-<img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=danialouty&theme=tokyonight&hide_border=true&background=000000&dates=ffffff&ring=c77dff&fire=ff79c6&currStreakLabel=c77dff" 
-    height="165"
-/>
-
-<br/>
-
-
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danialouty&theme=dark&hide_border=true" height="165"/>
 </div>
 
 ---
@@ -62,13 +51,9 @@
 ## 🔹 <span style="color:#a06cff;">Fun Fact</span>
 
 <div style="color:#f3d9ff; font-size:16px;">
-
-• 💻 <b>Coding is my art, coffee is my fuel, and the universe is my inspiration.</b>  
-
-• 🎮 Gaming sharpens my reflexes… coding sharpens my mind.  
-
-• 🌸 I turn ideas into projects, teams into winners, and challenges into opportunities.  
-
+• 💻 <b>Coding is my art, coffee is my fuel, and the universe is my inspiration.</b>  <br>
+• 🎮 Gaming sharpens my reflexes… coding sharpens my mind.  <br>
+• 🌸 I turn ideas into projects, teams into winners, and challenges into opportunities.  <br>
 • 🌌 <span style="color:#c8b6ff;"><b>Let’s build something amazing across the galaxy!</b></span>
 </div>
 
