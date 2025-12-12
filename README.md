@@ -42,11 +42,17 @@
 ## 🔹 <span style="color:#a06cff;">GitHub Stats (Space Theme)</span>
 
 <div align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danialouty&theme=dark&hide_border=true" height="165"/>
-</div>
 
----
+<br/>
+
+<img 
+  src="https://streak-stats.demolab.com?user=danialouty&theme=tokyonight&hide_border=true&background=0d1117&dates=ffffff&ring=c77dff&fire=ff79c6&currStreakLabel=c77dff" 
+  height="165"
+/>
+
+<br/>
+
+</div>
 
 ## 🔹 <span style="color:#a06cff;">Fun Fact</span>
 
