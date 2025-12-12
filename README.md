@@ -47,12 +47,11 @@
 <br/>
 
 <!-- Streak Stats -->
-[<img 
-     src="https://streak-stats.demolab.com?user=danialouty&theme=tokyonight&hide_border=true&background=00000000&dates=ffffff&ring=c77dff&fire=ff79c6&currStreakLabel=c77dff" 
-     height="165"
+<img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=danialouty&theme=tokyonight&hide_border=true&background=000000&dates=ffffff&ring=c77dff&fire=ff79c6&currStreakLabel=c77dff" 
+    height="165"
 />
-](https://github-readme-streak-stats.herokuapp.com/?user=danialouty&theme=tokyonight
-)
+
 <br/>
 
 
