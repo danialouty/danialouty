@@ -39,21 +39,6 @@
 
 ---
 
-## 🔹 <span style="color:#a06cff;">GitHub Stats (Space Theme)</span>
-
-<div align="center">
-
-<br/>
-
-<img 
-  src="https://streak-stats.demolab.com?user=danialouty&theme=tokyonight&hide_border=true&background=0d1117&dates=ffffff&ring=c77dff&fire=ff79c6&currStreakLabel=c77dff" 
-  height="165"
-/>
-
-<br/>
-
-</div>
-
 ## 🔹 <span style="color:#a06cff;">Fun Fact</span>
 
 <div style="color:#f3d9ff; font-size:16px;">
