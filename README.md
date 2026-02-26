@@ -17,7 +17,7 @@
 
 <div style="color:#f3d9ff;">
 • Fourth-year student 🎓  <br>
-• Passionate about <b>software development, cloud computing, and UI/UX</b>  <br>
+• Passionate about <b>software development and cloud computing </b>  <br>
 • Enjoy improving <b>problem-solving</b> and helping other students  <br>
 • Member of <b>GDG</b>  <br>
 • Interests: tennis 🎾, gaming 🎮, side projects 💻, and anime 🌸  
