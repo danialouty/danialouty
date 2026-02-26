@@ -5,9 +5,9 @@
   <h1 style="color:#c77dff;">🌌 Hey there! I'm Dania 👋</h1>
 
   <p style="font-size:18px; color:#e0b3ff;">
-    💻 <b>CIS Student | Problem-Solver | Future Cloud Engineer</b><br>
-    🌸 Lover of creativity, tech, stars, and cosmic vibes<br>
-    ☕ Fueled by curiosity & coffee
+     <b>CIS Student | Problem-Solver | Future Cloud Engineer</b><br>
+     Lover of creativity, tech, stars, and Books 🌸<br>
+     Fueled by curiosity & coffee
   </p>
 </div>
 
