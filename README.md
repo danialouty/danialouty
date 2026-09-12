@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" />
 
-  <h1 style="color:#c77dff;">🌌 Hey there! I'm Dania 👋</h1>
+  <h1 style="color:#c77dff;">Hey there! I'm Dania </h1>
 
   <p style="font-size:18px; color:#e0b3ff;">
      <b> CIS Student | Problem-Solver </b><br>
